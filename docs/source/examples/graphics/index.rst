@@ -1,0 +1,74 @@
+
+####################
+Examples
+####################
+
+.. toctree::
+    :maxdepth: 2
+
+    Mollweide_contourf.rst
+    Mollweide_simple_lines.rst
+    Mollweide_polygon.rst
+    EquiRectangular_contourf.rst
+    EquiRectangular_simple_lines.rst
+    EquiRectangular_polygon.rst
+    Hammer_contourf.rst
+    Hammer_simple_lines.rst
+    Hammer_polygon.rst
+    Robinson_contourf.rst
+    Robinson_simple_lines.rst
+    Robinson_polygon.rst
+    Sinusoidal_contourf.rst
+    Sinusoidal_simple_lines.rst
+    Sinusoidal_polygon.rst
+    Cassini_contourf.rst
+    Cassini_simple_lines.rst
+    Cassini_polygon.rst
+    Mercator_contourf.rst
+    Mercator_simple_lines.rst
+    Mercator_polygon.rst
+    TransverseMercator_contourf.rst
+    TransverseMercator_simple_lines.rst
+    TransverseMercator_polygon.rst
+    Polyconic_contourf.rst
+    Polyconic_simple_lines.rst
+    Polyconic_polygon.rst
+    Miller_contourf.rst
+    Miller_simple_lines.rst
+    Miller_polygon.rst
+    GallStereographic_contourf.rst
+    GallStereographic_simple_lines.rst
+    GallStereographic_polygon.rst
+    LambertConformalConic_contourf.rst
+    LambertConformalConic_simple_lines.rst
+    LambertConformalConic_polygon.rst
+    Stereographic_contourf.rst
+    Stereographic_simple_lines.rst
+    Stereographic_polygon.rst
+    AlbersEqualArea_contourf.rst
+    AlbersEqualArea_simple_lines.rst
+    AlbersEqualArea_polygon.rst
+    VanderGrinten_contourf.rst
+    VanderGrinten_simple_lines.rst
+    VanderGrinten_polygon.rst
+    McBrydeThomasFlatPolarQuartic_contourf.rst
+    McBrydeThomasFlatPolarQuartic_simple_lines.rst
+    McBrydeThomasFlatPolarQuartic_polygon.rst
+    LambertAzimuthal_contourf.rst
+    LambertAzimuthal_simple_lines.rst
+    LambertAzimuthal_polygon.rst
+    Collignon_contourf.rst
+    Collignon_simple_lines.rst
+    Collignon_polygon.rst
+    Bonne_contourf.rst
+    Bonne_simple_lines.rst
+    Bonne_polygon.rst
+    LambertEqualArea_contourf.rst
+    LambertEqualArea_simple_lines.rst
+    LambertEqualArea_polygon.rst
+    Ortelius_contourf.rst
+    Ortelius_simple_lines.rst
+    Ortelius_polygon.rst
+    Lagrange_contourf.rst
+    Lagrange_simple_lines.rst
+    Lagrange_polygon.rst
